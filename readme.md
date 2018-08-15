@@ -1,6 +1,6 @@
 # PWA tutorial
 
-This is a PWA tutorial app. You can find the tutorial on the [Vaadin website](https://vaadin.com/pwa).
+This is a [PWA tutorial](https://vaadin.com/pwa/build/production-pwa-with-webpack-and-workbox) app showing how to set up a project with Webpack and Workbox.
 
 ## Running
 
